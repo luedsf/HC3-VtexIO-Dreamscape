@@ -1,7 +1,7 @@
 {
   "vendor": "dreamscape",
   "name": "luedsf-test-env",
-  "version": "5.1.0",
+  "version": "0.1.0",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
